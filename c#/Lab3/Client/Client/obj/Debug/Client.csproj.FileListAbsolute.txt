@@ -6,3 +6,4 @@ C:\Projects\RIS_Lab_1\RIS_Labs_Second_Semester\c#\Lab3\Client\Client\obj\Debug\C
 C:\Projects\RIS_Lab_1\RIS_Labs_Second_Semester\c#\Lab3\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
 C:\Projects\RIS_Lab_1\RIS_Labs_Second_Semester\c#\Lab3\Client\Client\obj\Debug\Client.exe
 C:\Projects\RIS_Lab_1\RIS_Labs_Second_Semester\c#\Lab3\Client\Client\obj\Debug\Client.pdb
+C:\Projects\RIS_Lab_1\RIS_Labs_Second_Semester\c#\Lab3\Client\Client\obj\Debug\Client.Form1.resources
