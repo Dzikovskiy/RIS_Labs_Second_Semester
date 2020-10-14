@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using RisLab2.DAO;
-using RisLab2.View;
+﻿using RisLab2.View;
 
 namespace RisLab2
 {
@@ -12,8 +8,6 @@ namespace RisLab2
         {
             Menu menu = new Menu();
             menu.ShowMenu();
-
-           
         }
     }
 }
