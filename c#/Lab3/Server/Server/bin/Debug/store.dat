@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ComputerStore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Computers>
+    <Computer Brand="IBM" Price="100" Id="1" />
+    <Computer Brand="Dell" Price="500" Id="3" />
+    <Computer Brand="Lenovo" Price="700" Id="4" />
+    <Computer Brand="Lenovo" Price="850" Id="5" />
+    <Computer Brand="asfasdfasdf" Price="123123123" Id="2" />
+  </Computers>
+</ComputerStore>

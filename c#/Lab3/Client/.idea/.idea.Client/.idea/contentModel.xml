@@ -6,6 +6,10 @@
         <e p="App.config" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="Client.csproj" t="IncludeRecursive" />
+        <e p="Entity" t="Include">
+          <e p="Computer.cs" t="Include" />
+          <e p="ComputerStore.cs" t="Include" />
+        </e>
         <e p="Form1.cs" t="Include" />
         <e p="Form1.Designer.cs" t="Include" />
         <e p="Form1.resx" t="Include" />
@@ -17,6 +21,9 @@
           <e p="Resources.resx" t="Include" />
           <e p="Settings.Designer.cs" t="Include" />
           <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="Service" t="Include">
+          <e p="SerializeExtension.cs" t="Include" />
         </e>
       </e>
       <e p="Client.sln" t="IncludeFlat" />
