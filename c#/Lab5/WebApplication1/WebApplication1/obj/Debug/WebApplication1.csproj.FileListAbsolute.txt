@@ -1,0 +1,150 @@
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\WebApplication1.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\WebGrease.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\ru\System.Web.Optimization.resources.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+E:\Лабы\7 сем\рис\Lab5\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\mscorlib.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\ru\mscorlib.resources.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\ru\System.Web.Optimization.resources.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\normidna.nlp
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\normnfc.nlp
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\normnfd.nlp
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\normnfkc.nlp
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\bin\normnfkd.nlp
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Projects\Lab5_ris-master\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

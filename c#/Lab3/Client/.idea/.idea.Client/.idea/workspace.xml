@@ -23,46 +23,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c88d8e8a-1a42-4a7c-b9f7-917090b28797" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Client/Entity/Computer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/Entity/ComputerStore.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/Service/SerializeExtension.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Server/Server/DAO/ComputerStoreDao.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Server/Server/Entity/Computer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Server/Server/Entity/ComputerStore.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Server/Server/Form1.resx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Server/Server/Server.csproj.DotSettings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Server/Server/Service/ComputerService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Server/Server/Service/SerializeExtension.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Server/Server/bin/Debug/Server.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Server/Server/bin/Debug/Server.exe.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Server/Server/bin/Debug/Server.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Server/Server/bin/Debug/store.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Server/Server/obj/Debug/Server.Form1.resources" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Server/Server/obj/Debug/Server.Properties.Resources.resources" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Server/Server/obj/Debug/Server.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Server/Server/obj/Debug/Server.csproj.GenerateResource.Cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Server/Server/obj/Debug/Server.csprojResolveAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Server/Server/obj/Debug/Server.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Server/Server/obj/Debug/Server.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Server/Server/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Server/Server/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Server/Server/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Client/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Client/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Client/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Client/Client.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Client/Client.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Client/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Client/Form1.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Client/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Client/Form1.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Client/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Client/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Client/bin/Debug/Client.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Client/bin/Debug/Client.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Client/bin/Debug/Client.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Client/bin/Debug/Client.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/Client.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/Client.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Client/obj/Debug/Client.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/Client.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Client/obj/Debug/Client.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/Client.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Server/.idea/.idea.Server/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/.idea/.idea.Server/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Server/.idea/.idea.Server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/.idea/.idea.Server/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Server/Server/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/Server/Form1.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Server/Server/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/Server/Form1.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Server/Server/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/Server/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Server/Server/Server.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/Server/Server.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/Server/bin/Debug/store.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/Server/bin/Debug/store.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/.idea/.idea.Lab4/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/.idea/.idea.Lab4/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/.idea/.idea.Lab4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/.idea/.idea.Lab4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4/Form1.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4/Form1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4/Lab4.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4/Lab4.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +74,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -134,6 +114,9 @@
       <workItem from="1602689790841" duration="12453000" />
       <workItem from="1602952084162" duration="1758000" />
       <workItem from="1604060966355" duration="16432000" />
+      <workItem from="1605284876259" duration="262000" />
+      <workItem from="1605285697020" duration="1452000" />
+      <workItem from="1607697367695" duration="47000" />
     </task>
     <servers />
   </component>
@@ -158,22 +141,22 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="106" key="GridCell.Tab.0.bottom" timestamp="1604139663981">
+    <state width="1493" height="120" key="GridCell.Tab.0.bottom" timestamp="1607697413722">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="106" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604139663981" />
-    <state width="1493" height="106" key="GridCell.Tab.0.center" timestamp="1604139663977">
+    <state width="1493" height="120" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607697413722" />
+    <state width="1493" height="120" key="GridCell.Tab.0.center" timestamp="1607697413722">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="106" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604139663977" />
-    <state width="1493" height="106" key="GridCell.Tab.0.left" timestamp="1604139663977">
+    <state width="1493" height="120" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607697413722" />
+    <state width="1493" height="120" key="GridCell.Tab.0.left" timestamp="1607697413722">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="106" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604139663977" />
-    <state width="1493" height="106" key="GridCell.Tab.0.right" timestamp="1604139663977">
+    <state width="1493" height="120" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607697413722" />
+    <state width="1493" height="120" key="GridCell.Tab.0.right" timestamp="1607697413722">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="106" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604139663977" />
+    <state width="1493" height="120" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607697413722" />
     <state width="1493" height="106" key="GridCell.Tab.1.bottom" timestamp="1604139663981">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
